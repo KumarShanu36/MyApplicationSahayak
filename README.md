@@ -109,7 +109,6 @@ com.example.myapplicationsahayak/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/SahayakApp.git
-cd SahayakApp
-
-## 📂 Project Structure
+git clone https://github.com/KumarShanu36/MyApplicationSahayak.git
+cd MyApplicationSahayak
+```
